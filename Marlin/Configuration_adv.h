@@ -2042,8 +2042,8 @@
  * Choose values the orient the bed horizontally and the Z-probe vertically.
  */
 #define SAFE_BED_LEVELING_START_X 0.0
-#define SAFE_BED_LEVELING_START_Y 25.0
-//#define SAFE_BED_LEVELING_START_Z 10.0
+#define SAFE_BED_LEVELING_START_Y 0.0
+#define SAFE_BED_LEVELING_START_Z 10.0
 //#define SAFE_BED_LEVELING_START_I 0.0
 //#define SAFE_BED_LEVELING_START_J 0.0
 //#define SAFE_BED_LEVELING_START_K 0.0
